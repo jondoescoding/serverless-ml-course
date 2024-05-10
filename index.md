@@ -1,12 +1,12 @@
 
-## Module 1 - Today's Iris Flower 
+## Iris Flower 
 
 | Predicted | Actual (label)
 |--------|------- 
 | ![Iris](https://raw.githubusercontent.com/jondoescoding/serverless-ml-course/main/assets/latest_iris.png) | ![Iris](https://raw.githubusercontent.com/jondoescoding/serverless-ml-course/main/assets/actual_iris.png) 
 
- * Data source: synthetic data
- * Update frequency: daily
+ * Data source: randomly generated synthetic data
+ * Update frequency: on-demand
 
 #### Performance Monitoring 
 
